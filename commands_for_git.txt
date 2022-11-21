@@ -1,0 +1,7 @@
+important stuff for git
+when we make a change then do:
+ctrl+S
+git add .
+git commit -m "comment" (BTW comment means whatever change u made)
+git push
+done bleh 
